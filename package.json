@@ -1,0 +1,29 @@
+{
+  "name": "react-spectrum-badge-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "author": "Garth Braithwaite <garthdb@gmail.com> (http://garthdb.com)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@adobe/react-spectrum": "^3.7.0",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10",
+    "@react-aria/utils": "^3.5.0",
+    "@react-spectrum/utils": "^3.5.0",
+    "@react-types/shared": "^3.3.0",
+    "@spectrum-css/label": "^2.0.8-beta.2",
+    "babel-loader": "^8.2.2",
+    "components": "^0.1.0",
+    "parcel-bundler": "^1.12.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
