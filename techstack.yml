@@ -1,0 +1,205 @@
+repo_name: GarthDB/react-spectrum-badge-test
+report_id: 75e7332171eca1f77d880f1f39246fda
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-11T00:11:17+00:00'
+requested_by: GarthDB
+provider: github
+branch: master
+detected_tools_count: 15
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/GarthDB/react-spectrum-badge-test
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/GarthDB/react-spectrum-badge-test
+  detection_source: Repo Metadata
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 17.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/GarthDB/react-spectrum-badge-test/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Garth Braithwaite
+  last_updated_on: 2021-01-30 02:26:49.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.12.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/GarthDB/react-spectrum-badge-test/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Garth Braithwaite
+  last_updated_on: 2021-01-30 02:26:49.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/GarthDB/react-spectrum-badge-test/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Garth Braithwaite
+  last_updated_on: 2021-01-30 02:26:49.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/GarthDB/react-spectrum-badge-test
+  detection_source: Repo Metadata
+- name: Parcel
+  description: "\U0001F4E6\U0001F680  A fast, zero configuration web application bundler"
+  website_url: https://parceljs.org/
+  version: 1.12.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/8054/fC6Wad-S_400x400.jpg
+  detection_source_url: https://github.com/GarthDB/react-spectrum-badge-test/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Garth Braithwaite
+  last_updated_on: 2021-01-30 02:26:49.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/GarthDB/react-spectrum-badge-test/blob/master/yarn.lock
+  detection_source: yarn.lock
+  last_updated_by: Garth Braithwaite
+  last_updated_on: 2021-01-30 02:26:49.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/GarthDB/react-spectrum-badge-test/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Garth Braithwaite
+  last_updated_on: 2021-01-30 02:26:49.000000000 Z
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.12.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/GarthDB/react-spectrum-badge-test/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Garth Braithwaite
+  last_updated_on: 2021-01-30 02:26:49.000000000 Z
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.12.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/GarthDB/react-spectrum-badge-test/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Garth Braithwaite
+  last_updated_on: 2021-01-30 02:26:49.000000000 Z
+- name: "@babel/preset-react"
+  description: Babel preset for all React plugins
+  package_url: https://www.npmjs.com/@babel/preset-react
+  version: 7.12.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15890/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/GarthDB/react-spectrum-badge-test/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Garth Braithwaite
+  last_updated_on: 2021-01-30 02:26:49.000000000 Z
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 8.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: https://github.com/GarthDB/react-spectrum-badge-test/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Garth Braithwaite
+  last_updated_on: 2021-01-30 02:26:49.000000000 Z
+- name: parcel-bundler
+  description: Blazing fast, zero configuration web application bundler
+  package_url: https://www.npmjs.com/parcel-bundler
+  version: 1.12.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16248/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/GarthDB/react-spectrum-badge-test/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Garth Braithwaite
+  last_updated_on: 2021-01-30 02:26:49.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 17.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/GarthDB/react-spectrum-badge-test/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Garth Braithwaite
+  last_updated_on: 2021-01-30 02:26:49.000000000 Z
